@@ -73,5 +73,5 @@ A: This may be due to copyright restrictions or expired links. Other songs are u
 
 ## 作者 / Author
 
-- **作者 / Author**：CAT
-- **GitHub**：https://github.com/你的用户名
+- **作者 / Author**：CAT是猫不是喵
+- **GitHub**：https://github.com/CAT-fuck/MusicDownloader/

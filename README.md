@@ -3,6 +3,9 @@
 一个 Windows 桌面工具，支持批量下载网易云音乐歌单歌曲，可自定义音质与保存目录。  
 A Windows desktop tool for batch downloading songs from Netease Cloud Music playlists, with customizable audio quality and save directory.
 
+<img width="949" height="746" alt="image" src="https://github.com/user-attachments/assets/134fdbcb-8453-4800-bfe6-93e304df630b" />
+
+
 ## 功能特性 / Features
 
 - **歌单批量下载**：输入网易云歌单链接，一键下载全部歌曲  

@@ -1,0 +1,7 @@
+# 屏蔽不需要上传的文件
+.venv/
+build/
+dist/
+downloads/
+__pycache__/
+*.exe

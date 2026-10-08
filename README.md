@@ -78,3 +78,4 @@ A: This may be due to copyright restrictions or expired links. Other songs are u
 
 - **作者 / Author**：CAT是猫不是喵
 - **GitHub**：https://github.com/CAT-fuck/MusicDownloader/
+- Bug Report Email: catmiao14514@163.com
